@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+}
+td {
+    padding: 10px;
+	white-space: nowrap;
+}
+.borderless {
+	border: 0px;
+}
+.deleteImg {
+	width: 15px;
+	height: 15px;
+}
+.deleteImg:HOVER {
+	cursor: pointer;
+}
